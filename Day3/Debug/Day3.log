@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\george.webster\Desktop\AoC\Day3\main.cpp(37,29): warning C4018: '>': signed/unsigned mismatch
+C:\Users\george.webster\Desktop\AoC\Day3\main.cpp(88,30): warning C4018: '>': signed/unsigned mismatch
+  Day3.vcxproj -> C:\Users\george.webster\Desktop\AoC\Day3\Debug\Day3.exe

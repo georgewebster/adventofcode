@@ -1,0 +1,2 @@
+C:\Users\george.webster\Desktop\AoC\Day2\Debug\Day2.exe
+C:\Users\george.webster\Desktop\AoC\Day2\Debug\Day2.pdb
